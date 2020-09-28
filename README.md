@@ -1,4 +1,4 @@
-# Link: [Website](https://hidannyzhu.github.io/)
+# Link: [Website](https://hidannyz.github.io/)
 
 ### Credits For Starter Design: 
 Astral by HTML5 UP
